@@ -1,2 +1,2 @@
-# 底层原理
-记录计算机底层通用原理
+#- Computer principles
+record Computer principles
